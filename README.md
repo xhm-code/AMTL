@@ -1,4 +1,18 @@
-AMTL
+# AMTL
+
+Code for Findings of ACL 2025 paper [An Adaptive Multi-Threshold Loss and a General Framework for Collaborating Losses in Document-Level Relation Extraction](https://aclanthology.org/2025.findings-acl.1081).
+
+If you make use of this code in your work, please kindly cite the following paper:
+
+```bibtex
+@inproceedings{xu2025adaptive,
+  title={An Adaptive Multi-Threshold Loss and a General Framework for Collaborating Losses in Document-Level Relation Extraction},
+  author={Xu, Huangming and Zhang, Fu and Cheng, Jingwei},
+  booktitle={Findings of the Association for Computational Linguistics: ACL 2025},
+  pages={20996--21007},
+  year={2025}
+}
+```
 ---
 ## Requirements
 Ensure you have the following packages installed:
